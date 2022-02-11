@@ -1,0 +1,10 @@
+@import 'reset';
+
+body {
+  background-color: $primary-color;
+  color: $primary-text-color;
+}
+
+#__next {
+  height: 100vh;
+}

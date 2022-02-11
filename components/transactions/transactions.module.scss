@@ -1,0 +1,14 @@
+.transactions {
+  padding: 1.2rem 0;
+  border: 1px solid $primary-text-color;
+  width: 850px;
+  &__head {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+
+    span {
+      justify-self: center;
+    }
+
+  }
+}

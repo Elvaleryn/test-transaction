@@ -1,0 +1,9 @@
+.button {
+  background-color: $primary-text-color;
+  color: $primary-color;
+  padding: .5rem 1rem;
+
+  &:hover {
+    scale: 1.2;
+  }
+}
